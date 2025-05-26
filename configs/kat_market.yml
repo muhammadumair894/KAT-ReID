@@ -1,0 +1,11 @@
+MODEL:
+  NAME: "transformer"
+  BACKBONE_NAME: "kat_base_patch16_224_TransReID"
+  # Include other necessary transformer settings
+  DROP_PATH: 0.1
+  DROP_OUT: 0.0
+  ATT_DROP_RATE: 0.0
+  # KAT-specific parameters
+  KAT:
+    ACTIVATION: "swish" 
+    WEIGHT_INIT: "kan_mimetic"
