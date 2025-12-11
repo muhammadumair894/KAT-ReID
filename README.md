@@ -8,4 +8,4 @@
 
 ## Contact
 
-If you have any question, please feel free to contact us. E-mail: [muhammadumair894@gmail.com]
+If you have any questions, please feel free to contact us. E-mail: [muhammadumair894@gmail.com]
