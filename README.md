@@ -213,5 +213,6 @@ If you use this code, please cite the paper and the key baselines.
 * Muhammad Umair — [muhammadumair894@gmail.com](mailto:muhammadumair894@gmail.com) 
 
 ---
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=muhammadumair894.KAT-ReID)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=muhammadumair894/KAT-ReID&type=Date)](https://star-history.com/#muhammadumair894/KAT-ReID&Date)
 
