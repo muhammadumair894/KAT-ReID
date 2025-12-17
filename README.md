@@ -199,12 +199,12 @@ If you use this code, please cite the paper and the key baselines.
 }
 ```
 
-(Recommended additional citations from the paper’s references:)
+(Thank you for the great work, Recommended additional citations)
 
 * ViT 
 * KAN 
 * KAT (arXiv:2409.10594) 
-* TransReID baseline (ICCV’21) appears in Table II 
+* TransReID baseline (ICCV’21)
 
 ---
 
