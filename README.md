@@ -227,5 +227,9 @@ If you use this code, please cite the paper and the key baselines.
 
 ---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=muhammadumair894/KAT-ReID&type=Date)](https://star-history.com/#muhammadumair894/KAT-ReID&Date)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=muhammadumair894/KAT-ReID&type=date&legend=top-left)](https://www.star-history.com/#muhammadumair894/KAT-ReID&type=date&legend=top-left)
 
