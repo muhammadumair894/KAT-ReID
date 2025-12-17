@@ -67,7 +67,7 @@ Table below reproduces the paper’s Table II (higher is better).
 
 The paper evaluates four benchmarks (official splits, single-query evaluation): Market-1501, MSMT17, Occluded-Duke, VeRi-776. 
 
-Dataset stats (paper Table I): 
+Dataset: 
 
 * **MSMT17:** 4,101 IDs, 126,441 images, 15 cameras
 * **Market-1501:** 1,501 IDs, 32,668 images, 6 cameras
