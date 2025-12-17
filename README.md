@@ -2,7 +2,7 @@
 
 # KAT-ReID: KAT-ReID: Assessing the Viability of Kolmogorov–Arnold Transformers in Object Re-Identification
 
-# Complete details will be shared soon. 
+# Complete details 
 
 ```
 
