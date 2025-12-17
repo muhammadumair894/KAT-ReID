@@ -194,7 +194,7 @@ If you use this code, please cite the paper and the key baselines.
   title     = {KAT-ReID: Assessing the Viability of Kolmogorov--Arnold Transformers in Object Re-Identification},
   author    = {Umair, Muhammad and Jun, Zhou and Musaddiq, Muhammad Hammad and Muhammad, Ahmad},
   year      = {2025},
-  note      = {ICCC-2025 (as indicated in the repository)}
+  note      = {ICCC-2025}
 }
 ```
 
