@@ -46,7 +46,7 @@ Each transformer block keeps MHSA + residuals, but replaces the 2-layer GELU MLP
 
 ## Reported results (single-query mAP / CMC)
 
-Table below reproduces the paper’s Table II (higher is better). 
+Table (higher is better). 
 
 | Dataset       |              Method |      mAP |      R-1 |  R-5 | R-10 |
 | ------------- | ------------------: | -------: | -------: | ---: | ---: |
