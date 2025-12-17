@@ -77,7 +77,20 @@ Dataset:
 > **Note:** Please follow each dataset’s license/terms from its official source.
 
 ---
+## Pretrained Models (Hugging Face)
 
+We provide official pretrained weights for KAT-ReID on all benchmarks evaluated in the paper.
+All models are hosted on Hugging Face Hub for easy access and reproducibility.
+
+Available checkpoints
+| Dataset           | Hugging Face Repo                                                                                                |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **VeRi-776**      | [https://huggingface.co/umair894/KAT-ReID-Veri776](https://huggingface.co/umair894/KAT-ReID-Veri776)             |
+| **Occluded-Duke** | [https://huggingface.co/umair894/KAT-ReID-Occluded-duke](https://huggingface.co/umair894/KAT-ReID-Occluded-duke) |
+| **Market-1501**   | [https://huggingface.co/umair894/KAT-ReID-Market](https://huggingface.co/umair894/KAT-ReID-Market)               |
+| **MSMT17**        | [https://huggingface.co/umair894/KAT-ReID-MSMT17](https://huggingface.co/umair894/KAT-ReID-MSMT17)               |
+
+---
 ## Installation
 
 1. **Clone**
