@@ -212,12 +212,12 @@ If you use this code, please cite the paper and the key baselines.
 }
 ```
 
-(Thank you for the great work, Recommended additional citations)
+(Thank you for the great work. Recommended additional citations)
 
-* ViT 
-* KAN 
-* KAT (arXiv:2409.10594) 
-* TransReID baseline (ICCV’21)
+* [ViT]() 
+* [KAN](https://arxiv.org/abs/2404.19756)
+* [KAT](https://arxiv.org/abs/2409.10594) 
+* [TransReID baseline (ICCV’21)](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf)
 
 ---
 
@@ -226,10 +226,6 @@ If you use this code, please cite the paper and the key baselines.
 * Muhammad Umair — [muhammadumair894@gmail.com](mailto:muhammadumair894@gmail.com) 
 
 ---
-
-
-
-## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=muhammadumair894/KAT-ReID&type=date&legend=top-left)](https://www.star-history.com/#muhammadumair894/KAT-ReID&type=date&legend=top-left)
 
